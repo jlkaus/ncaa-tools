@@ -1,0 +1,610 @@
+::SOS PWR RTG
+--SOSP_Rank	*Team	Region	Seed	SOSP_Rating	SOSP_Record
+1	Michigan St	Midwest	3	108.3	24-8
+2	Wisconsin	West	5	108.2	23-11
+3	Ohio State	West	2	107.7	26-7
+4	Syracuse	East	4	107.6	26-9
+5	Indiana	East	1	107.5	27-6
+6	Michigan	South	4	107.4	25-7
+7	Minnesota	South	11	107.3	20-12
+8	Louisville	Midwest	1	107.2	29-5
+9	Illinois	East	7	107.1	21-12
+10	Georgetown	South	2	107.0	25-6
+11	Marquette	East	3	106.9	23-8
+12	Duke	Midwest	2	106.7	27-5
+13	New Mexico	West	3	106.6	29-5
+14	San Diego St	South	7	106.6	20-10
+15	N Carolina	South	8	106.6	23-10
+16	Kansas St	West	4	106.6	26-7
+17	Villanova	South	9	106.6	19-13
+18	Notre Dame	West	7	106.4	25-9
+19	Cincinnati	Midwest	10	106.4	22-11
+20	Kansas	South	1	106.3	29-5
+21	Miami (FL)	East	2	106.2	27-6
+22	Oklahoma St	Midwest	5	106.1	24-8
+#23	Boise State	West	13	106.1	19-10
+25	UNLV	East	5	106.0	24-9
+27	Colorado	East	10	106.0	21-11
+28	Iowa State	West	10	106.0	22-11
+29	Pittsburgh	West	8	105.9	24-8
+30	Oklahoma	South	10	105.9	20-11
+31	UCLA	South	6	105.8	25-9
+32	Butler	East	6	105.8	25-8
+33	NC State	East	8	105.8	24-10
+34	Colorado St	Midwest	8	105.8	23-8
+37	Arizona	West	6	105.7	25-7
+40	California	East	12	105.4	20-11
+42	Florida	South	3	105.3	26-7
+44	Missouri	Midwest	9	105.2	23-10
+50	Oregon	Midwest	12	104.7	26-8
+62	VCU	South	5	104.4	26-8
+66	Temple	East	9	104.4	23-9
+67	Saint Louis	Midwest	4	104.4	27-6
+68	La Salle	West	13	104.3	21-9
+69	Creighton	Midwest	7	104.3	27-7
+73	Wichita St	West	9	104.1	26-8
+75	Mississippi	West	12	104.0	26-8
+76	Gonzaga	West	1	104.0	30-2
+93	St Marys	Midwest	11	103.4	26-6
+108	Memphis	Midwest	6	102.3	30-4
+116	Iona	West	15	101.5	20-13
+120	N Mex State	Midwest	13	101.4	23-10
+125	Pacific	East	15	101.2	20-12
+128	Belmont	West	11	101.0	24-6
+133	Valparaiso	Midwest	14	100.8	25-7
+134	Akron	South	12	100.8	25-6
+137	Harvard	West	14	100.7	18-9
+154	Bucknell	East	11	100.1	27-5
+#157	Middle Tenn	Midwest	11	100.0	28-5
+171	S Dakota St	South	13	99.5	22-9
+181	NW State	South	14	99.3	19-8
+195	Davidson	East	14	98.9	25-7
+196	W Kentucky	South	16	98.9	19-15
+202	Albany	Midwest	15	98.8	24-10
+210	James Mad	East	16	98.5	20-14
+225	Fla Gulf Cst	South	15	98.3	22-10
+#232	LIU-Brooklyn	East	16	98.2	20-13
+241	Montana	East	13	98.0	23-6
+298	NC A&T	Midwest	16	96.2	18-16
+#313	Liberty	Midwest	16	95.8	12-20
+336	Southern	West	16	94.7	20-9
+
+::PPG
+--PPG_Rank	*Team	Region	Seed	PPG_Overall	PPG_Last3	PPG_Last1	PPG_Home	PPG_Away
+1	Iona	West	15	80.7	76.0	60.0	86.3	77.5
+2	Indiana	East	1	80.0	69.3	56.0	83.8	74.8
+3	Iowa State	West	10	79.6	76.3	73.0	84.4	74.6
+#4	LIU-Brooklyn	East	16	79.5	92.0	91.0	78.8	79.8
+5	Duke	Midwest	2	78.3	76.0	74.0	81.6	74.9
+6	NW State	South	14	78.0	69.0	68.0	82.3	75.4
+7	Mississippi	West	12	77.9	64.7	66.0	82.6	73.2
+8	NC State	East	8	77.5	75.3	71.0	84.4	70.6
+9	VCU	South	5	77.3	69.7	56.0	79.4	75.2
+12	Belmont	West	11	76.9	76.7	70.0	83.1	72.8
+13	Gonzaga	West	1	76.8	70.7	65.0	83.0	71.4
+14	Missouri	Midwest	9	76.2	62.0	62.0	81.5	70.6
+15	N Carolina	South	8	76.2	79.7	77.0	79.1	73.5
+17	Memphis	Midwest	6	75.9	85.7	91.0	78.3	73.1
+18	Creighton	Midwest	7	75.4	65.7	68.0	80.1	70.6
+18	Kansas	South	1	75.4	83.0	70.0	78.9	71.8
+22	St Marys	Midwest	11	74.9	66.7	51.0	79.2	70.6
+24	UCLA	South	6	74.7	71.7	69.0	79.7	69.1
+26	Michigan	South	4	74.4	71.0	59.0	76.2	72.6
+31	Louisville	Midwest	1	73.6	73.7	78.0	75.2	72.1
+35	Arizona	West	6	73.3	72.0	64.0	75.9	70.6
+37	Davidson	East	14	73.1	75.0	74.0	76.8	70.9
+45	Temple	East	9	72.8	77.3	74.0	75.6	69.5
+47	S Dakota St	South	13	72.6	70.3	73.0	75.2	71.0
+48	La Salle	West	13	72.4	65.3	58.0	77.9	68.2
+51	Oklahoma St	Midwest	5	72.4	69.0	57.0	73.9	70.6
+52	Fla Gulf Cst	South	15	72.3	77.7	88.0	71.0	73.4
+53	Colorado St	Midwest	8	72.3	69.7	65.0	75.3	69.4
+58	Akron	South	12	71.9	63.7	65.0	74.0	70.0
+63	Oregon	Midwest	12	71.7	74.0	78.0	73.1	70.1
+64	Florida	South	3	71.6	68.0	63.0	75.0	68.8
+65	Valparaiso	Midwest	14	71.5	69.0	62.0	72.8	69.9
+68	Syracuse	East	4	71.3	60.3	61.0	75.9	65.9
+#71	Middle Tenn	Midwest	11	71.2	69.3	57.0	78.8	64.9
+73	Oklahoma	South	10	71.1	72.0	66.0	74.4	68.4
+75	UNLV	East	5	71.1	67.7	56.0	73.1	68.4
+#76	Boise State	West	13	71.1	66.7	67.0	75.6	67.4
+87	Montana	East	13	70.5	66.7	67.0	70.8	70.3
+92	Notre Dame	West	7	70.4	66.3	57.0	74.0	65.1
+101	Miami (FL)	East	2	69.9	79.0	87.0	72.8	67.5
+107	Pittsburgh	West	8	69.6	71.0	59.0	71.1	67.6
+109	Wichita St	West	9	69.4	66.7	65.0	72.9	66.3
+110	Ohio State	West	2	69.3	60.7	50.0	73.6	64.1
+117	Marquette	East	3	69.0	64.7	65.0	73.4	64.3
+121	Harvard	West	14	68.9	64.3	65.0	73.8	64.4
+125	Saint Louis	Midwest	4	68.7	67.0	62.0	70.5	66.3
+126	Kansas St	West	4	68.7	62.7	54.0	73.4	64.2
+128	Illinois	East	7	68.6	56.7	64.0	69.8	67.6
+132	Minnesota	South	11	68.4	57.7	49.0	73.2	63.0
+133	Butler	East	6	68.4	66.0	56.0	70.3	66.9
+136	San Diego St	South	7	68.3	62.7	50.0	73.3	64.4
+140	Colorado	East	10	68.2	67.0	69.0	74.7	62.4
+143	N Mex State	Midwest	13	68.0	67.7	64.0	69.8	66.5
+155	California	East	12	67.5	67.0	69.0	68.9	66.1
+157	Michigan St	Midwest	3	67.5	62.7	58.0	70.5	64.1
+158	New Mexico	West	3	67.4	60.7	63.0	70.0	64.9
+159	Villanova	South	9	67.4	62.7	55.0	67.7	67.2
+#162	Liberty	Midwest	16	67.4	71.0	87.0	70.5	65.5
+165	Bucknell	East	11	67.2	66.7	64.0	68.4	66.2
+172	W Kentucky	South	16	67.0	61.7	65.0	68.9	65.7
+179	Pacific	East	15	66.8	63.3	64.0	72.2	63.2
+181	Cincinnati	Midwest	10	66.6	55.0	43.0	70.4	62.1
+183	Southern	West	16	66.6	59.3	45.0	69.1	65.5
+203	Wisconsin	West	5	65.5	59.7	43.0	70.2	60.2
+217	James Mad	East	16	65.2	66.7	70.0	68.1	63.1
+233	Georgetown	South	2	64.6	59.3	55.0	65.4	63.6
+237	Albany	Midwest	15	64.4	54.7	53.0	64.6	64.3
+286	NC A&T	Midwest	16	61.6	65.3	57.0	63.5	60.7
+
+::OPPG
+--OPPG_Rank	*Team	Region	Seed	OPPG_Overall	OPPG_Last3	OPPG_Last1	OPPG_Home	OPPG_Away
+3	Florida	South	3	53.7	58.3	66.0	49.4	57.3
+5	Pittsburgh	West	8	55.4	64.0	62.0	53.4	58.1
+8	Georgetown	South	2	55.7	46.7	58.0	53.9	57.9
+9	Wisconsin	West	5	55.9	55.0	50.0	51.9	60.4
+12	Bucknell	East	11	57.7	56.0	56.0	56.9	58.4
+#13	Middle Tenn	Midwest	11	57.8	63.0	61.0	53.3	61.5
+14	Ohio State	West	2	57.9	50.3	43.0	55.7	60.7
+15	Louisville	Midwest	1	58.0	57.7	61.0	56.1	59.6
+16	Saint Louis	Midwest	4	58.1	55.7	56.0	55.9	61.1
+17	Southern	West	16	58.4	47.3	44.0	51.0	61.8
+21	Cincinnati	Midwest	10	58.8	53.0	62.0	57.5	60.3
+27	Michigan St	Midwest	3	59.4	59.3	61.0	55.8	63.4
+28	Gonzaga	West	1	59.5	50.3	51.0	60.8	58.4
+32	Syracuse	East	4	60.1	64.0	78.0	55.3	65.8
+35	Albany	Midwest	15	60.3	52.3	49.0	58.4	61.8
+37	New Mexico	West	3	60.4	50.7	56.0	58.5	62.3
+38	Miami (FL)	East	2	60.7	68.7	77.0	57.2	63.6
+39	Wichita St	West	9	60.7	59.3	68.0	58.2	62.9
+41	San Diego St	South	7	61.2	65.3	60.0	59.1	62.8
+46	Kansas St	West	4	61.4	58.7	70.0	58.5	64.1
+47	NC A&T	Midwest	16	61.4	58.0	54.0	57.4	63.3
+48	Kansas	South	1	61.5	63.3	54.0	58.5	64.4
+53	Minnesota	South	11	61.7	64.3	51.0	57.1	66.9
+54	Davidson	East	14	62.0	58.7	55.0	56.8	65.1
+59	Akron	South	12	62.3	57.7	46.0	59.8	64.6
+63	Indiana	East	1	62.5	67.7	68.0	59.1	67.0
+64	Valparaiso	Midwest	14	62.6	59.7	54.0	58.8	66.9
+65	Marquette	East	3	62.7	64.7	73.0	62.4	63.1
+67	Oklahoma St	Midwest	5	62.8	70.0	68.0	59.6	66.5
+68	N Mex State	Midwest	13	62.8	56.3	55.0	58.3	66.6
+71	Michigan	South	4	62.9	68.7	68.0	59.1	66.8
+75	Creighton	Midwest	7	63.1	53.7	65.0	63.2	63.0
+78	Notre Dame	West	7	63.1	65.0	69.0	61.5	65.4
+87	St Marys	Midwest	11	63.3	66.0	65.0	62.4	64.2
+90	Butler	East	6	63.5	64.0	67.0	59.3	67.1
+91	Colorado St	Midwest	8	63.5	67.3	75.0	61.9	65.1
+92	UNLV	East	5	63.6	61.3	63.0	62.1	65.6
+93	Oregon	Midwest	12	63.6	63.7	69.0	58.3	70.4
+96	Arizona	West	6	63.7	64.3	66.0	63.2	64.1
+97	Colorado	East	10	63.8	70.3	79.0	61.9	65.5
+105	Harvard	West	14	64.2	60.7	56.0	63.5	64.9
+111	James Mad	East	16	64.4	60.3	57.0	59.1	68.0
+112	California	East	12	64.4	69.3	79.0	62.5	66.4
+120	Belmont	West	11	64.6	70.7	68.0	61.1	67.0
+123	VCU	South	5	64.8	67.7	62.0	61.6	67.9
+124	Villanova	South	9	64.9	61.3	74.0	63.7	66.1
+125	Pacific	East	15	65.0	58.7	55.0	63.4	66.1
+128	Memphis	Midwest	6	65.1	73.7	79.0	64.5	65.9
+135	Duke	Midwest	2	65.4	64.3	83.0	62.2	68.6
+138	Illinois	East	7	65.4	65.7	80.0	64.0	66.8
+143	Montana	East	13	65.7	56.7	64.0	61.8	68.4
+150	La Salle	West	13	66.0	72.3	69.0	65.6	66.2
+151	Missouri	Midwest	9	66.2	59.3	64.0	62.4	70.2
+152	Oklahoma	South	10	66.2	71.0	73.0	61.1	70.4
+156	W Kentucky	South	16	66.3	59.3	63.0	62.6	68.8
+157	S Dakota St	South	13	66.4	57.3	67.0	60.8	69.9
+#159	Boise State	West	13	66.4	68.7	73.0	65.2	67.5
+181	Mississippi	West	12	67.3	59.0	63.0	63.6	70.9
+182	Fla Gulf Cst	South	15	67.3	65.3	75.0	58.6	74.1
+202	Temple	East	9	68.1	70.0	79.0	69.1	67.0
+228	UCLA	South	6	68.9	72.3	78.0	68.4	69.6
+232	N Carolina	South	8	69.1	75.0	87.0	65.9	72.1
+252	NC State	East	8	70.1	66.7	81.0	70.8	69.3
+#267	Liberty	Midwest	16	70.8	66.0	76.0	70.1	71.2
+275	Iowa State	West	10	71.2	76.0	88.0	66.3	76.4
+298	NW State	South	14	72.4	63.7	66.0	69.2	74.4
+331	Iona	West	15	75.8	71.7	57.0	74.6	76.4
+#335	LIU-Brooklyn	East	16	76.4	78.3	70.0	69.9	80.6
+
+::Overall PWR RTG
+--OP_Rank	*Team	Region	Seed	OP_Rating	OP_Record	OP_v1-25	OP_v26-50
+1	Louisville	Midwest	1	119.5	29-5	7-4	4-1
+2	Gonzaga	West	1	119.2	30-2	2-1	4-1
+3	Indiana	East	1	117.6	27-6	6-4	5-2
+4	Kansas	South	1	117.6	29-5	6-2	7-1
+5	Ohio State	West	2	117.2	26-7	6-6	3-1
+6	New Mexico	West	3	116.8	29-5	2-1	8-2
+7	Duke	Midwest	2	116.6	27-5	3-1	6-1
+8	Georgetown	South	2	116.5	25-6	5-4	4-1
+9	Michigan St	Midwest	3	116.0	24-8	5-6	5-2
+10	Michigan	South	4	115.6	25-7	4-6	5-0
+11	Miami (FL)	East	2	115.4	27-6	2-2	6-0
+12	Saint Louis	Midwest	4	114.9	27-6	4-1	3-1
+13	Syracuse	East	4	114.7	26-9	4-6	3-3
+14	Kansas St	West	4	114.7	26-7	3-6	3-1
+15	Florida	South	3	114.6	26-7	2-2	3-2
+16	Wisconsin	West	5	114.1	23-11	5-7	4-2
+17	Marquette	East	3	114.1	23-8	6-5	1-2
+18	Memphis	Midwest	6	114.1	30-4	0-1	0-2
+19	Pittsburgh	West	8	113.9	24-8	2-6	4-1
+20	Oklahoma St	Midwest	5	113.3	24-8	2-4	3-2
+21	Butler	East	6	113.1	25-8	3-3	3-3
+22	Notre Dame	West	7	112.9	25-9	3-5	3-1
+23	Arizona	West	6	112.8	25-7	2-0	3-5
+24	Creighton	Midwest	7	112.8	27-7	1-0	2-3
+25	Colorado St	Midwest	8	112.8	23-8	0-2	3-5
+26	UNLV	East	5	112.7	24-9	3-3	4-3
+27	N Carolina	South	8	112.4	23-10	0-7	2-1
+28	VCU	South	5	112.4	26-8	2-3	1-4
+29	San Diego St	South	7	112.0	20-10	2-5	3-3
+30	St Marys	Midwest	11	111.8	26-6	1-3	0-0
+31	NC State	East	8	111.5	24-10	1-5	2-1
+32	UCLA	South	6	111.5	25-9	3-1	2-3
+33	Minnesota	South	11	111.2	20-12	4-6	2-3
+34	Cincinnati	Midwest	10	111.2	22-11	2-8	4-1
+35	Oregon	Midwest	12	111.2	26-8	1-0	3-3
+36	Illinois	East	7	111.0	21-12	4-7	2-3
+37	Iowa State	West	10	110.9	22-11	2-5	2-4
+#38	Boise State	West	13	110.9	19-10	2-4	2-3
+39	Missouri	Midwest	9	110.8	23-10	1-2	3-3
+41	Mississippi	West	12	110.6	26-8	1-1	2-2
+42	Wichita St	West	9	110.6	26-8	1-2	2-0
+43	Temple	East	9	110.4	23-9	2-3	3-0
+44	Villanova	South	9	110.1	19-13	4-5	1-3
+46	Oklahoma	South	10	110.0	20-11	2-5	1-2
+47	La Salle	West	13	109.9	21-9	1-3	2-1
+48	Colorado	East	10	109.8	21-11	2-3	2-1
+#49	Middle Tenn	Midwest	11	109.6	28-5	0-1	1-1
+50	Belmont	West	11	109.5	24-6	0-1	1-1
+51	California	East	12	109.1	20-11	1-2	4-3
+52	Bucknell	East	11	109.0	27-5	0-0	1-1
+53	Akron	South	12	108.7	25-6	0-2	1-0
+60	Valparaiso	Midwest	14	108.1	25-7	0-2	0-0
+72	Davidson	East	14	106.6	25-7	0-3	0-0
+75	N Mex State	Midwest	13	106.5	23-10	0-2	0-0
+96	S Dakota St	South	13	104.8	22-9	1-0	0-2
+100	Iona	West	15	104.5	20-13	0-0	0-1
+101	Harvard	West	14	104.5	18-9	0-1	0-2
+104	NW State	South	14	104.2	19-8	0-0	0-1
+108	Montana	East	13	104.0	23-6	0-1	0-0
+111	Pacific	East	15	103.9	20-12	0-1	1-1
+132	Albany	Midwest	15	102.5	24-10	0-1	0-0
+141	Fla Gulf Cst	South	15	102.0	22-10	1-1	0-2
+#159	LIU-Brooklyn	East	16	100.8	20-13	0-0	0-0
+176	W Kentucky	South	16	100.0	19-15	0-1	0-4
+180	James Mad	East	16	99.7	20-14	0-0	0-1
+196	Southern	West	16	98.5	20-9	0-0	0-1
+232	NC A&T	Midwest	16	96.1	18-16	0-0	0-2
+#291	Liberty	Midwest	16	92.2	12-20	0-1	0-0
+
+::Home PWR RTG
+--HP_Rank	*Team	Region	Seed	HP_Rating	HP_Record	HP_v1-25	HP_v26-50
+1	Florida	South	3	126.5	15-0	2-0	2-0
+2	Duke	Midwest	2	123.0	16-0	2-0	2-0
+4	Marquette	East	3	119.9	16-0	5-0	1-0
+5	Missouri	Midwest	9	119.7	17-0	1-0	1-0
+6	Kansas	South	1	118.6	16-1	1-1	5-0
+7	Louisville	Midwest	1	118.4	15-1	3-1	1-0
+8	Michigan St	Midwest	3	118.3	16-1	3-1	3-0
+9	Michigan	South	4	118.1	15-1	2-1	3-0
+10	Belmont	West	11	117.9	12-0	0-0	1-0
+11	Miami (FL)	East	2	117.4	14-1	2-0	2-0
+#12	Middle Tenn	Midwest	11	117.1	15-0	0-0	1-0
+13	Ohio State	West	2	116.7	16-2	3-2	3-0
+14	Georgetown	South	2	116.5	16-1	3-1	0-0
+15	New Mexico	West	3	116.5	16-1	1-0	3-0
+16	Indiana	East	1	116.2	17-2	2-2	3-0
+17	Iowa State	West	10	116.1	16-1	2-1	1-0
+18	San Diego St	South	7	116.0	12-1	2-0	1-1
+#19	Boise State	West	13	115.9	12-1	1-1	2-0
+20	Kansas St	West	4	115.6	15-1	1-1	2-0
+21	Colorado St	Midwest	8	115.5	14-1	0-1	3-0
+22	Minnesota	South	11	115.5	15-2	3-1	1-1
+23	NC State	East	8	115.5	16-1	1-1	1-0
+25	Syracuse	East	4	115.0	17-2	1-2	2-0
+27	Saint Louis	Midwest	4	114.7	17-2	2-0	2-0
+28	Oklahoma St	Midwest	5	114.7	15-2	1-2	2-0
+29	Oklahoma	South	10	114.6	12-2	2-1	1-0
+30	Gonzaga	West	1	114.5	14-1	0-0	1-1
+32	St Marys	Midwest	11	113.7	15-1	1-1	0-0
+34	VCU	South	5	113.6	15-2	1-0	1-2
+35	N Carolina	South	8	113.5	14-2	0-2	2-0
+36	Memphis	Midwest	6	113.5	17-1	0-1	0-0
+37	Wisconsin	West	5	112.9	15-3	2-1	3-0
+38	Mississippi	West	12	112.8	16-1	0-0	1-0
+39	UNLV	East	5	112.3	16-3	2-1	3-1
+40	Arizona	West	6	112.3	14-2	1-0	1-1
+41	Notre Dame	West	7	112.2	17-3	1-1	2-1
+42	Creighton	Midwest	7	112.1	15-2	0-0	1-1
+43	N Mex State	Midwest	13	111.6	14-1	0-1	0-0
+45	Butler	East	6	111.3	13-2	1-1	1-0
+47	Villanova	South	9	111.1	11-4	4-1	0-1
+48	Pittsburgh	West	8	111.1	15-3	1-2	2-1
+49	S Dakota St	South	13	111.0	12-0	0-0	0-0
+51	Oregon	Midwest	12	110.8	17-2	1-0	0-1
+52	Colorado	East	10	110.6	12-3	2-0	1-1
+53	UCLA	South	6	110.2	15-3	1-0	1-1
+57	La Salle	West	13	109.4	11-2	1-0	1-0
+59	Wichita St	West	9	109.4	14-2	1-0	0-0
+61	Cincinnati	Midwest	10	109.2	13-5	1-4	2-0
+62	Akron	South	12	109.0	14-1	0-0	1-0
+64	Illinois	East	7	108.8	12-4	2-2	0-1
+69	Iona	West	15	108.3	11-1	0-0	0-0
+71	Bucknell	East	11	108.1	14-1	0-0	1-0
+73	Temple	East	9	107.8	14-3	1-0	2-0
+79	California	East	12	107.1	11-5	0-1	3-1
+84	Fla Gulf Cst	South	15	106.5	13-1	1-0	0-0
+86	Davidson	East	14	106.4	11-1	0-0	0-0
+97	Valparaiso	Midwest	14	105.8	15-2	0-0	0-0
+99	Pacific	East	15	105.7	11-2	0-0	0-0
+106	NW State	South	14	105.2	9-1	0-0	0-0
+107	Harvard	West	14	105.2	12-1	0-0	0-0
+117	Southern	West	16	103.9	9-0	0-0	0-0
+126	Montana	East	13	102.9	11-1	0-0	0-0
+#144	LIU-Brooklyn	East	16	101.5	11-2	0-0	0-0
+179	James Mad	East	16	99.2	10-4	0-0	0-0
+183	Albany	Midwest	15	98.5	11-4	0-0	0-0
+193	W Kentucky	South	16	97.8	10-4	0-0	0-1
+229	NC A&T	Midwest	16	95.6	8-3	0-0	0-0
+#316	Liberty	Midwest	16	88.5	5-7	0-0	0-0
+
+
+::Away PWR RTG
+--AP_Rank	*Team	Region	Seed	AP_Rating	AP_Record	AP_v1-25	AP_v26-50
+1	Indiana	East	1	120.7	7-2	3-0	1-2
+2	Gonzaga	West	1	119.1	10-1	1-1	1-0
+3	Louisville	Midwest	1	118.7	8-3	2-2	1-1
+4	Pittsburgh	West	8	118.3	6-3	1-2	2-0
+5	Georgetown	South	2	117.2	6-3	2-1	2-1
+6	Memphis	Midwest	6	116.3	9-1	0-0	0-0
+7	New Mexico	West	3	116.1	9-4	1-1	3-2
+8	St Marys	Midwest	11	115.3	9-2	0-1	0-0
+9	Michigan St	Midwest	3	115.2	6-5	1-4	1-1
+10	Kansas	South	1	115.1	7-3	3-0	1-1
+11	Ohio State	West	2	115.1	5-5	1-4	0-1
+12	Miami (FL)	East	2	115.0	10-3	0-1	2-0
+13	Kansas St	West	4	114.1	7-3	0-2	1-1
+14	Michigan	South	4	113.6	5-5	0-4	2-0
+15	Temple	East	9	113.5	8-4	0-2	1-0
+16	Wisconsin	West	5	113.4	5-6	1-4	1-2
+17	Syracuse	East	4	113.2	5-5	1-3	0-2
+18	UCLA	South	6	113.1	6-3	1-0	1-0
+19	Duke	Midwest	2	112.9	5-4	0-1	1-1
+20	Butler	East	6	112.6	7-4	0-1	0-2
+21	Illinois	East	7	112.4	5-6	1-4	1-1
+22	Saint Louis	Midwest	4	112.4	6-3	1-0	0-1
+23	Marquette	East	3	112.3	5-6	1-3	0-2
+24	California	East	12	112.2	6-5	1-1	1-2
+25	N Carolina	South	8	111.9	6-6	0-3	0-1
+26	Colorado St	Midwest	8	111.8	6-6	0-1	0-4
+27	Arizona	West	6	111.7	7-4	0-0	0-3
+28	Florida	South	3	111.4	7-5	0-1	0-1
+29	Notre Dame	West	7	111.3	4-5	1-3	1-0
+30	VCU	South	5	111.2	8-3	0-1	0-1
+31	UNLV	East	5	111.2	6-6	0-2	1-2
+32	Oklahoma St	Midwest	5	111.1	5-5	1-1	0-2
+33	Cincinnati	Midwest	10	111.0	4-5	1-3	0-1
+35	Creighton	Midwest	7	110.4	7-5	0-0	0-2
+36	Oregon	Midwest	12	110.0	6-5	0-0	2-1
+37	La Salle	West	13	110.0	8-6	0-2	1-1
+38	Wichita St	West	9	109.8	7-5	0-1	1-0
+40	Valparaiso	Midwest	14	109.5	10-5	0-2	0-0
+41	Villanova	South	9	109.5	6-7	0-3	1-2
+#43	Middle Tenn	Midwest	11	109.4	11-3	0-0	0-1
+47	Bucknell	East	11	108.9	12-4	0-0	0-1
+48	San Diego St	South	7	108.8	4-6	0-2	0-2
+49	Colorado	East	10	108.6	5-7	0-2	1-0
+#51	Boise State	West	13	108.4	5-8	1-3	0-2
+61	Minnesota	South	11	107.2	3-8	0-4	1-1
+62	Mississippi	West	12	107.2	6-6	0-1	0-2
+63	Belmont	West	11	107.2	8-5	0-1	0-1
+65	NC State	East	8	107.2	3-7	0-2	0-1
+71	Oklahoma	South	10	106.7	5-7	0-3	0-1
+73	Iowa State	West	10	106.7	4-8	0-3	0-3
+77	Akron	South	12	106.5	7-4	0-1	0-0
+100	Davidson	East	14	104.8	9-4	0-1	0-0
+108	Albany	Midwest	15	104.3	10-5	0-1	0-0
+110	Missouri	Midwest	9	104.2	2-8	0-1	0-2
+112	Harvard	West	14	104.1	6-8	0-1	0-2
+130	Montana	East	13	103.1	10-5	0-1	0-0
+134	Iona	West	15	102.9	5-9	0-0	0-1
+138	N Mex State	Midwest	13	102.7	6-8	0-1	0-0
+143	NW State	South	14	102.2	8-7	0-0	0-1
+149	S Dakota St	South	13	101.9	7-9	1-0	0-2
+#180	LIU-Brooklyn	East	16	99.9	7-9	0-0	0-0
+181	Pacific	East	15	99.6	4-9	0-1	0-1
+203	W Kentucky	South	16	98.4	4-9	0-0	0-2
+214	Fla Gulf Cst	South	15	97.6	6-9	0-1	0-2
+222	Southern	West	16	97.2	8-8	0-0	0-1
+234	James Mad	East	16	96.4	4-9	0-0	0-1
+#278	Liberty	Midwest	16	93.1	5-11	0-1	0-0
+281	NC A&T	Midwest	16	92.9	5-12	0-0	0-2
+
+::Games
+--*Game	Round	City	Location
+Finals	6	Atlanta, Georgia	33°45′27″N 84°24′3″W
+Midwest-West Semifinals	5	Atlanta, Georgia	33°45′27″N 84°24′3″W
+South-East Semifinals	5	Atlanta, Georgia	33°45′27″N 84°24′3″W
+South Regional Quarterfinals	4	Arlington	32°42′18″N 97°07′22″W
+South Regional 1	3	Arlington	32°42′18″N 97°07′22″W
+South Regional 2	3	Arlington	32°42′18″N 97°07′22″W
+South 6-11	1	Austin, Texas	30°15′N 97°45′W
+South 6-11-3-14	2	Austin, Texas	30°15′N 97°45′W
+South 3-14	1	Austin, Texas	30°15′N 97°45′W
+South 1-16	1	Kansas City, Missouri	39°05′59″N 94°34′42″W
+South 1-16-8-9	2	Kansas City, Missouri	39°05′59″N 94°34′42″W
+South 8-9	1	Kansas City, Missouri	39°05′59″N 94°34′42″W
+South 7-10	1	Philadelphia, Pennsylvania	39°57′12″N 75°10′12″W
+South 2-15	1	Philadelphia, Pennsylvania	39°57′12″N 75°10′12″W
+South 7-10-2-15	2	Philadelphia, Pennsylvania	39°57′12″N 75°10′12″W
+South 5-12	1	Auburn Hills, Michigan	42°41′15″N 83°14′03″W
+South 4-13	1	Auburn Hills, Michigan	42°41′15″N 83°14′03″W
+South 5-12-4-13	2	Auburn Hills, Michigan	42°41′15″N 83°14′03″W
+
+::Seeds
+--Seed	Region	*Team	Conference	S_Record	Berth	S_Rank	Location
+1	South	Kansas	Big 12	29–5	Automatic	3	38°58′18″N 95°14′7″W
+2	South	Georgetown	Big East	25–6	At-large	7	38°53′42.4″N 77°02′12.0″W
+3	South	Florida	SEC	26–7	At-large	10	29°39′7.1964″N 82°19′29.974800″W
+4	South	Michigan	Big Ten	26–7	At-large	13	42.2830°N 83.7350°W
+5	South	VCU	Atlantic 10	26–8	At-large	20	37.5466151°N 77.4532558°W
+6	South	UCLA	Pac-12	25–9	At-large	24	34°04′20.00″N 118°26′38.75″W
+7	South	San Diego St	Mountain West	22–10	At-large	26	32°42′54″N 117°09′45″W
+8	South	N Carolina	ACC	24–10	At-large	29	35°56′N 79°2′W
+9	South	Villanova	Big East	20–13	At-large	38	40°02′14″N 75°20′57″W
+10	South	Oklahoma	Big 12	20–11	At-large	40	35°13′N 97°25′W
+11	South	Minnesota	Big Ten	20–12	At-large	41	44°59′N 93°16′W
+12	South	Akron	MAC	26–6	Automatic	51	41.075235°N 81.511538°W
+13	South	S Dakota St	Summit	25–9	Automatic	53	44°18′23″N 96°47′17″W
+14	South	NW State	Southland	23–8	Automatic	57	31°44′35″N 93°05′42″W
+15	South	Fla Gulf Cst	Atlantic Sun	24–10	Automatic	59	26°37′N 81°50′W
+16	South	W Kentucky	Sun Belt	20–15	Automatic	63	36°58′54″N 86°26′40″W
+
+::Games
+--*Game	Round	City	Location
+West Regional Quarterfinals	4	Los Angeles	34°03′N 118°15′W
+West Regional 1	3	Los Angeles	34°03′N 118°15′W
+West Regional 2	3	Los Angeles	34°03′N 118°15′W
+West 1-16	1	Salt Lake City, Utah	40°45′0″N 111°53′0″W
+West 8-9	1	Salt Lake City, Utah	40°45′0″N 111°53′0″W
+West 1-16-8-9	2	Salt Lake City, Utah	40°45′0″N 111°53′0″W
+West 6-11	1	Salt Lake City, Utah	40°45′0″N 111°53′0″W
+West 3-14	1	Salt Lake City, Utah	40°45′0″N 111°53′0″W
+West 6-11-3-14	2	Salt Lake City, Utah	40°45′0″N 111°53′0″W
+West 7-10	1	Dayton, Ohio	39°45′34″N 84°11′30″W
+West 2-15	1	Dayton, Ohio	39°45′34″N 84°11′30″W
+West 7-10-2-15	2	Dayton, Ohio	39°45′34″N 84°11′30″W
+West 5-12	1	Kansas City, Missouri	39°05′59″N 94°34′42″W
+West 4-13	1	Kansas City, Missouri	39°05′59″N 94°34′42″W
+West 5-12-4-13	2	Kansas City, Missouri	39°05′59″N 94°34′42″W
+
+
+::Seeds
+--Seed	Region	*Team	Conference	S_Record	Berth	S_Rank	Location
+1	West	Gonzaga	West Coast	31–2	Automatic	4	47°39′32″N 117°25′30″W
+2	West	Ohio State	Big Ten	26–7	Automatic	8	39°59′N 82°59′W
+3	West	New Mexico	Mountain West	29–5	Automatic	9	35.08389°N 106.61861°W
+4	West	Kansas St	Big 12	27–7	At-large	14	39°11′30″N 96°34′51″W
+5	West	Wisconsin	Big Ten	23–11	At-large	19	43.075000°N 89.417222°W
+6	West	Arizona	Pac-12	25–7	At-large	21	32°13′54″N 110°57′07″W
+7	West	Notre Dame	Big East	25–9	At-large	27	41.702995°N 86.238972°W
+8	West	Pittsburgh	Big East	24–8	At-large	31	40°26′40″N 79°57′12″W
+9	West	Wichita St	Missouri Valley	26–8	At-large	35	37°43′09″N 97°17′35″W
+10	West	Iowa State	Big 12	22–11	At-large	39	42.023949°N 93.647595°W
+11	West	Belmont	Ohio Valley	26–6	Automatic	44	36.13553°N 86.79661°W
+12	West	Mississippi	SEC	26–8	Automatic	47	34.3663°N 89.5368°W
+#13	West	Boise State	Mountain West	21–10	At-large	45	43.60392°N 116.20441°W
+13	West	La Salle	Atlantic 10	21–9	At-large	49	40.03925°N 75.15325°W
+14	West	Harvard	Ivy	19–9	Automatic	58	42°22′28″N 71°07′01″W
+15	West	Iona	MAAC	20–13	Automatic	61	40.92583°N 73.7875°W
+16	West	Southern	SWAC	23–9	Automatic	64	30°31′29″N 91°11′24″W
+
+
+::Games
+--*Game	Round	City	Location
+East Regional Quarterfinals	4	Washington, D.C.	38°53′42.4″N 77°02′12.0″W
+East Regional 1	3	Washington, D.C.	38°53′42.4″N 77°02′12.0″W
+East Regional 2	3	Washington, D.C.	38°53′42.4″N 77°02′12.0″W
+East 6-11	1	Lexington, Kentucky	38°01′47″N 84°29′41″W
+East 3-14	1	Lexington, Kentucky	38°01′47″N 84°29′41″W
+East 6-11-3-14	2	Lexington, Kentucky	38°01′47″N 84°29′41″W
+East 5-12	1	San Jose, California	37°20′N 121°54′W
+East 4-13	1	San Jose, California	37°20′N 121°54′W
+East 5-12-4-13	2	San Jose, California	37°20′N 121°54′W
+East 1-16	1	Dayton, Ohio	39°45′34″N 84°11′30″W
+East 8-9	1	Dayton, Ohio	39°45′34″N 84°11′30″W
+East 1-16-8-9	2	Dayton, Ohio	39°45′34″N 84°11′30″W
+East 7-10	1	Austin, Texas	30°15′N 97°45′W
+East 2-15	1	Austin, Texas	30°15′N 97°45′W
+East 7-10-2-15	2	Austin, Texas	30°15′N 97°45′W
+
+::Seeds
+--Seed	Region	*Team	Conference	S_Record	Berth	S_Rank	Location
+1	East	Indiana	Big Ten	27–6	At-large	1	39°9′44″N 86°31′45″W
+2	East	Miami (FL)	ACC	27–6	Automatic	5	25.721644°N 80.279267°W
+3	East	Marquette	Big East	23–8	At-large	12	43.038°N 87.928°W
+4	East	Syracuse	Big East	26–9	At-large	16	43.03767°N 76.13399°W
+5	East	UNLV	Mountain West	25–9	At-large	18	36.10779°N 115.14376°W
+6	East	Butler	Atlantic 10	26–8	At-large	22	39.791°N 86.148°W
+7	East	Illinois	Big Ten	22–12	At-large	28	40°6′37.94″N 88°13′42.28″W
+8	East	NC State	ACC	24–10	At-large	32	35.785548°N 78.67157°W
+9	East	Temple	Atlantic 10	23–9	At-large	34	39.98°N 75.16°W
+10	East	Colorado	Pac-12	21–11	At-large	36	39.511905°N 84.734674°W
+11	East	Bucknell	Patriot	28–5	Automatic	48	40.9546°N 76.8836°W
+12	East	California	Pac-12	20–11	At-large	42	37.870°N 122.259°W
+13	East	Montana	Big Sky	25–9	Automatic	54	46°51′36″N 113°59′07″W
+14	East	Davidson	Southern	26–7	Automatic	55	35.499990°N 80.845296°W
+15	East	Pacific	Big West	22–12	Automatic	60	37.9795°N 121.313°W
+16	East	James Mad	CAA	20–14	Automatic	66	38°26′18.4″N 78°52′25.5″W
+#16	East	LIU-Brooklyn	Northeast	20–13	Automatic	65	40.6911°N 73.9808°W
+
+
+::Games
+--*Game	Round	City	Location
+Midwest Regional Quarterfinals	4	Indianapolis	39°46′N 86°9′W
+Midwest Regional 1	3	Indianapolis	39°46′N 86°9′W
+Midwest Regional 2	3	Indianapolis	39°46′N 86°9′W
+Midwest 7-10	1	Philadelphia, Pennsylvania	39°57′12″N 75°10′12″W
+Midwest 2-15	1	Philadelphia, Pennsylvania	39°57′12″N 75°10′12″W
+Midwest 7-10-2-15	2	Philadelphia, Pennsylvania	39°57′12″N 75°10′12″W
+Midwest 6-11	1	Auburn Hills, Michigan	42°41′15″N 83°14′03″W
+Midwest 3-14	1	Auburn Hills, Michigan	42°41′15″N 83°14′03″W
+Midwest 6-11-3-14	2	Auburn Hills, Michigan	42°41′15″N 83°14′03″W
+Midwest 1-16	1	Lexington, Kentucky	38°01′47″N 84°29′41″W
+Midwest 8-9	1	Lexington, Kentucky	38°01′47″N 84°29′41″W
+Midwest 1-16-8-9	2	Lexington, Kentucky	38°01′47″N 84°29′41″W
+Midwest 5-12	1	San Jose, California	37°20′N 121°54′W
+Midwest 4-13	1	San Jose, California	37°20′N 121°54′W
+Midwest 5-12-4-13	2	San Jose, California	37°20′N 121°54′W
+
+::Seeds
+--Seed	Region	*Team	Conference	S_Record	Berth	S_Rank	Location
+1	Midwest	Louisville	Big East	29–5	Automatic	2	38°12′54.0792″N 85°45′36.8028″W
+2	Midwest	Duke	ACC	27–5	At-large	6	36°0′4″N 78°56′20″W
+3	Midwest	Michigan St	Big Ten	25–8	At-large	11	42.723°N 84.481°W
+4	Midwest	Saint Louis	Atlantic 10	27–6	Automatic	15	38.636497°N 90.233903°W
+5	Midwest	Oklahoma St	Big 12	24–8	At-large	17	36°07′56″N 97°04′51″W
+6	Midwest	Memphis	C-USA	30–4	Automatic	23	35.11908°N 89.93778°W
+7	Midwest	Creighton	Missouri Valley	27–7	Automatic	25	41°15′53″N 95°56′46″W
+8	Midwest	Colorado St	Mountain West	25–8	At-large	30	40°34′29.41″N 105°4′51.52″W
+9	Midwest	Missouri	SEC	23–10	At-large	33	38.9453°N 92.3288°W
+10	Midwest	Cincinnati	Big East	22–11	At-large	37	39.132024°N 84.515548°W
+#11	Midwest	Middle Tenn	Sun Belt	28–5	At-large	50	35.85222°N 86.37°W
+11	Midwest	St Marys	West Coast	27–6	At-large	46	37.84096°N 122.10946°W
+12	Midwest	Oregon	Pac-12	26–8	Automatic	43	44°02′38.56″N 123°04′32.65″W
+13	Midwest	N Mex State	WAC	24–10	Automatic	52	32.283°N 106.748°W
+14	Midwest	Valparaiso	Horizon	26–7	Automatic	56	41°27′49″N 87°02′37″W
+15	Midwest	Albany	America East	24–10	Automatic	62	42.686193°N 73.823884°W
+#16	Midwest	Liberty	Big South	15–20	Automatic	68	37.35242°N 79.18018°W
+16	Midwest	NC A&T	MEAC	19–16	Automatic	67	36.075352°N 79.773628°W
+
+::Seed Games
+--*Seed	1	2	3	4
+1	1-16	1-16-8-9	Regional 1	Regional Quarterfinals
+16	1-16	1-16-8-9	Regional 1	Regional Quarterfinals
+8	8-9	1-16-8-9	Regional 1	Regional Quarterfinals
+9	8-9	1-16-8-9	Regional 1	Regional Quarterfinals
+7	7-10	7-10-2-15	Regional 2	Regional Quarterfinals
+10	7-10	7-10-2-15	Regional 2	Regional Quarterfinals
+2	2-15	7-10-2-15	Regional 2	Regional Quarterfinals
+15	2-15	7-10-2-15	Regional 2	Regional Quarterfinals
+6	6-11	6-11-3-14	Regional 2	Regional Quarterfinals
+11	6-11	6-11-3-14	Regional 2	Regional Quarterfinals
+3	3-14	6-11-3-14	Regional 2	Regional Quarterfinals
+14	3-14	6-11-3-14	Regional 2	Regional Quarterfinals
+5	5-12	5-12-4-13	Regional 1	Regional Quarterfinals
+12	5-12	5-12-4-13	Regional 1	Regional Quarterfinals
+4	4-13	5-12-4-13	Regional 1	Regional Quarterfinals
+13	4-13	5-12-4-13	Regional 1	Regional Quarterfinals
+
+::Final Games
+--*Region	5	6
+West	Midwest-West Semifinals	Finals
+Midwest	Midwest-West Semifinals	Finals
+East	South-East Semifinals	Finals
+South	South-East Semifinals	Finals
